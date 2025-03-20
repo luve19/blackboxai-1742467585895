@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VertiGrowth</string>
+    
+    <!-- Order Confirmation Screen -->
+    <string name="order_confirmation_title">Order Confirmation</string>
+    <string name="order_details">Order Details</string>
+    <string name="total_price">Total: $%.2f</string>
+    <string name="order_status">Order Status</string>
+    <string name="status_being_processed">Being Processed</string>
+    <string name="status_successfully_processed">Successfully Processed</string>
+    <string name="track_order">Track Order</string>
+    <string name="error_loading_order">Error loading order details: %1$s</string>
+    <string name="error_updating_status">Error updating status: %1$s</string>
+
+    <!-- Order Tracking Screen -->
+    <string name="tracking_title">Track Order</string>
+    <string name="delivery_status">Delivery Status</string>
+    <string name="status_on_the_way">On the way</string>
+    <string name="estimated_delivery_time">Estimated delivery: %1$s</string>
+    <string name="proceed_to_thank_you">Proceed to Thank You</string>
+    <string name="error_initializing_map">Error initializing map</string>
+    <string name="error_tracking">Error initializing tracking: %1$s</string>
+    <string name="error_map_setup">Error setting up map: %1$s</string>
+    <string name="error_map_config">Error configuring map: %1$s</string>
+    <string name="location_permission_denied">Location permission denied. Some features may be limited.</string>
+    <string name="delivery_location">Delivery Location</string>
+
+    <!-- Thank You Screen -->
+    <string name="thank_you_title">Thank You for Your Order!</string>
+    <string name="order_success_message">Your order has been successfully processed. We\'ll notify you when your items are ready for delivery.</string>
+    <string name="order_number">Order #: %1$s</string>
+    <string name="return_home">Return to Home</string>
+    <string name="error_thank_you_init">Error initializing thank you page: %1$s</string>
+    <string name="error_return_home">Error returning to home: %1$s</string>
+    <string name="error_back_press">Error handling back press: %1$s</string>
+
+    <!-- Common -->
+    <string name="quantity">Quantity: %1$d</string>
+    <string name="price">$%.2f</string>
+    <string name="error_generic">An error occurred: %1$s</string>
+</resources>
